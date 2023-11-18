@@ -1,0 +1,17 @@
+# create new project
+    dotnet new webapi -n ""
+
+# add Jwt package
+    dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+
+# add Identity EntityFramework package
+    dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+# add Identity UI package
+    dotnet add package Microsoft.AspNetCore.Identity.UI
+
+# add EntityFrameworkCore Sqlite package
+    dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+
+# add EntityFrameworkCore tools package
+    dotnet add package Microsoft.EntityFrameworkCore.Tools

@@ -1,0 +1,17 @@
+<div ngClass="min-h-[80vh] flex justify-center items-center">
+    <form (ngSubmit)="Login()" ngClass="max-w-xl w-full flex flex-col gap-2">
+        <div ngClass="flex w-full">
+            <label for="email"></label>
+            <input class="w-full px-4 py-2 rounded" type="email" [(ngModel)]="login.email" name="email" id="email"
+                placeholder="email" autocomplete="email">
+        </div>
+        <div ngClass="flex w-full">
+            <label for="password"></label>
+            <input class="w-full px-4 py-2 rounded" type="password" [(ngModel)]="login.password" name="password"
+                id="password" placeholder="password" autocomplete="current-password">
+        </div>
+        <div ngClass="flex justify-center w-full">
+            <input class="px-4 py-2 border max-w-sm w-full rounded cursor-pointer" type="submit">
+        </div>
+    </form>
+</div>
