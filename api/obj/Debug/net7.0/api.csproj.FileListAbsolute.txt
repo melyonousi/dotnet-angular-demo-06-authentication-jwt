@@ -83,3 +83,4 @@ C:\Users\melyo\Documents\github\melyonousi\dotnet-angular\dot-net\dotnet-angular
 C:\Users\melyo\Documents\github\melyonousi\dotnet-angular\dot-net\dotnet-angular-demo-06-authentication-jwt\api\obj\Debug\net7.0\api.pdb
 C:\Users\melyo\Documents\github\melyonousi\dotnet-angular\dot-net\dotnet-angular-demo-06-authentication-jwt\api\obj\Debug\net7.0\api.genruntimeconfig.cache
 C:\Users\melyo\Documents\github\melyonousi\dotnet-angular\dot-net\dotnet-angular-demo-06-authentication-jwt\api\obj\Debug\net7.0\ref\api.dll
+C:\Users\melyo\Documents\github\melyonousi\dotnet-angular\dot-net\dotnet-angular-demo-06-authentication-jwt\api\obj\Debug\net7.0\api.sourcelink.json

@@ -8,10 +8,11 @@ import { User } from 'src/app/models/user.module';
 import { environment } from 'src/environments/environment';
 
 
-const HttpOptions = {}
-headers: new HttpHeaders({
-  'Content-Type': 'application/json'
-})
+const HttpOptions = {
+  headers: new HttpHeaders({
+    'Content-Type': 'application/json'
+  })
+}
 
 @Injectable({
   providedIn: 'root'

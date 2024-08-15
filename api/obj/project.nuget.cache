@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6JvkFaFkLxiMGq0bqTGj/cBwuAJB/pxQNRHcGWH0FoH4aZhGgYb6qLW5578ck1PQGTzLppVqz8v8cOrj4e2+6g==",
+  "dgSpecHash": "xdxwSMhOipWBWJW5d+n7jIsqtni+EvOrsCJK/YGK+D8CGuxDdP6WbAS/TfiHxZMoO3Oc4o8ipZRXladejfcZmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\melyo\\Documents\\github\\melyonousi\\dotnet-angular\\dot-net\\dotnet-angular-demo-06-authentication-jwt\\api\\api.csproj",
   "expectedPackageFiles": [
